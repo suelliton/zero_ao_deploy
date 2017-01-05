@@ -2,3 +2,4 @@ env
 *.pyc
 staticfiles
 settings.ini
+ZERO_AO_DEPLOY/db.sqlite3
